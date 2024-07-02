@@ -198,3 +198,8 @@ def running_product_generator(numbers):
     for number in numbers:
         product *= number
         yield product
+
+#Task 36
+
+def task36(n):
+    return 1;
